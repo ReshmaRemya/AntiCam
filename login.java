@@ -76,7 +76,7 @@ public class login extends AppCompatActivity {
         reg = findViewById(R.id.login_signup);
 
 
-
+/*login validation*/
 
         btnlog.setOnClickListener(new View.OnClickListener() {
             @Override
